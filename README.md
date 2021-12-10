@@ -4,7 +4,7 @@
 - 👨‍🎓 Formado em Analise e Desenvolvimento de Sistemas / 2020-2021.. 
 - 🎓 Partindo para a segunda Graduação em Ciência da Computação / 2022-2025..
 
-![Estatísticas do Matheus GitHub](https://github-readme-stats.vercel.app/api?username=DeveloperMatheus97&show_icons=true&theme=react&count_private=true)
+<div align = "">   <a href="https://github.com/DeveloperMatheus97">   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=DeveloperMatheus97&show_icons=true&theme=react&include_all_commits=true&count_private=true" />   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMatheus97&layout=compact&langs_count=7&theme=react" /> </div>
 
 ### Minhas Habilidades:
 <div style="display: inline-block">
