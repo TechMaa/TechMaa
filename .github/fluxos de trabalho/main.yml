@@ -14,7 +14,7 @@ empregos :
       - usa : Platane / snk @ master
         id : snake-gif
         com :
-          github_user_name : ellen2121
+          github_user_name :DeveloperMatheus97
           svg_out_path : dist / github-customization-grid-snake.svg
 
       - usa : crazy-max/ghaction-github-pages@v2.1.3
