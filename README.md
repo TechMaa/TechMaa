@@ -1,15 +1,18 @@
+<div align="center">
+<img height="200" width="200" src="https://user-images.githubusercontent.com/83286306/145679594-a13857e4-7f59-4e45-9b7d-33c7081ccd3c.jpg">
+
 ### Olá, Muito Prazer!! Seja Bem Vindo ao meu GitHub.. 😄
 
-- 💻 Atualmente estou a procura de uma oportunidade no mercado da tecnologia.. 
-- 👨‍🎓 Formado em Analise e Desenvolvimento de Sistemas / 2020-2021.. 
-- 🎓 Partindo para a segunda Graduação em Ciência da Computação / 2022-2025..
+💻 Atualmente estou a procura de uma oportunidade no mercado da tecnologia..<br>
+ 👨‍🎓 Formado em Analise e Desenvolvimento de Sistemas / 2020-2021.. <br>
+🎓 Partindo para a segunda Graduação em Ciência da Computação / 2022-2025..
 
 <br>
 
 <div>
   <a href="https://github.com/DeveloperMatheus97">
-  <img height = "140em" src = "https://github-readme-stats.vercel.app/api?username=DeveloperMatheus97&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height = "140em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMatheus97&layout=compact&langs_count=7&theme=react"/>
+  <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=DeveloperMatheus97&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMatheus97&layout=compact&langs_count=7&theme=react"/>
 </div>
 
 ##
@@ -26,4 +29,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheuscomth__/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100042428267343)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-caitano-s/)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)]()
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](matheuscaitanosouza18@outlook.com)
