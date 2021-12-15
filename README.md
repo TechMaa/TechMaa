@@ -1,5 +1,5 @@
 <div align="center">
-<img height="200" width="200" src="https://user-images.githubusercontent.com/83286306/145679594-a13857e4-7f59-4e45-9b7d-33c7081ccd3c.jpg">
+<img height="200" width="200" src="https://user-images.githubusercontent.com/83286306/146100191-eaa34d52-e336-4bbc-bc52-8fdbd4f3bb05.png">
 
 ### Olá, Muito Prazer!! Seja Bem Vindo ao meu GitHub.. 😄
 
@@ -11,11 +11,11 @@
 
 <div>
   <a href="https://github.com/DeveloperMatheus97">
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=DeveloperMatheus97&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMatheus97&layout=compact&langs_count=7&theme=react"/>
+  <img height = "140em" src = "https://github-readme-stats.vercel.app/api?username=DeveloperMatheus97&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height = "140em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMatheus97&layout=compact&langs_count=7&theme=react"/>
 </div>
 
-##
+<br>
 
 <div style="display: inline-block">
   <img align="center" height="30" width="40" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg "/>
@@ -24,7 +24,7 @@
   <img align="center" height="30" width="40" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg "/>
 </div>
 
-##
+<br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheuscomth__/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100042428267343)
