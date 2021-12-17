@@ -18,10 +18,14 @@
 <br>
 
 <div style="display: inline-block">
-  <img align="center" height="30" width="40" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg "/>
-  <img align="center" height="30" width="40" alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg "/>
+  <img align="center" height="30" width="40" alt="html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" height="30" width="40" alt="css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" height="30" width="40" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" height="30" width="40" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg "/>
+  <img align="center" height="30" width="40" alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" height="30" width="40" alt="react" src = "https://icongr.am/devicon/react-original.svg?size=128&color=currentColor"/>
+  <img align="center" height="30" width="40" alt="bootstrap" src = "https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=8402ca"/>
+  <img align="center" height="30" width="40" alt="git" src = "https://icongr.am/devicon/git-original.svg?size=128&color=8402ca"/>
+  <img align="center" height="30" width="40" alt="mysql" src = "https://icongr.am/devicon/mysql-original.svg?size=128&color=8402ca"/>
 </div>
 
 ##
