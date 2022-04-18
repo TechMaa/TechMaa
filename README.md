@@ -7,7 +7,7 @@
  
 👨‍💻 Software Developer - Banco ABC Brasil <br>
 👨‍🎓 Formado em Analise e Desenvolvimento de Sistemas / 2020-2021.. <br>
-🎓 Partindo para a segunda Graduação em Ciência da Computação / 2022-2025..
+🎓 Graduando Bacharelado em Ciência da Computação / 2022-2025..
  
 
 <br>
