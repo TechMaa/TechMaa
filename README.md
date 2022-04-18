@@ -2,10 +2,13 @@
 <img height="300" width="300" src="https://user-images.githubusercontent.com/83286306/146118988-88b5af29-05ba-4a95-8bcf-63b4b0244a94.png">
 
 ### Olá, Muito Prazer!! Seja Bem Vindo ao meu GitHub.. 😄
-
-💻 Atualmente estou a procura de uma oportunidade no mercado da tecnologia..<br>
- 👨‍🎓 Formado em Analise e Desenvolvimento de Sistemas / 2020-2021.. <br>
+ 
+ <br>
+ 
+👨‍💻 Software Developer - Banco ABC Brasil <br>
+👨‍🎓 Formado em Analise e Desenvolvimento de Sistemas / 2020-2021.. <br>
 🎓 Partindo para a segunda Graduação em Ciência da Computação / 2022-2025..
+ 
 
 <br>
 
