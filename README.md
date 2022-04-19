@@ -5,7 +5,7 @@
  
 <br>
  
-Olá Desenvolvedores,<br>Meu nome é Matheus tenho 2.4 anos de idade, Sou desenvolvedor de software no Banco ABC Brasil, apesar de já atuar na área, ainda me considero novinho na tecnologia, mas venho aqui com uma bagagem surpreendente de estudos e dedicação que talvez possa ajudar em algo. Formado em Analise e desenvolvimento de Sistemas e cursando Bacharelado em Ciência da Computação, espero que encontre aqui algo que possa ajudar vocês, Muito Obrigado pela Visita e tmj 😄
+Olá Desenvolvedores,<br>Meu nome é Matheus tenho 2.4 anos de idade, trabalho como desenvolvedor de software no Banco ABC Brasil, apesar de já atuar na área, ainda me considero novinho na tecnologia, mas venho com uma bagagem surpreendente de estudos e dedicação.<br>Formado em Analise e desenvolvimento de Sistemas e cursando Bacharelado em Ciência da Computação, espero que encontre aqui algo que possa ajudar vocês, Muito Obrigado pela Visita e tmj 😄
 
 <br>
 
