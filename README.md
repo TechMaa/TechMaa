@@ -3,7 +3,13 @@
  
 <br>
  
-Olá Desenvolvedores,<br>Meu nome é Matheus tenho 2.4 anos de idade, trabalho como desenvolvedor de software no Banco ABC Brasil, apesar de já atuar na área, ainda me considero novinho na tecnologia, mas venho com uma bagagem surpreendente de estudos e dedicação.<br>Formado em Analise e desenvolvimento de Sistemas e cursando Bacharelado em Ciência da Computação, espero que encontre aqui algo que possa ajudar vocês, Muito Obrigado pela Visita e tmj 😄
+Olá! Sou um desenvolvedor de software apaixonado por programação e tecnologia. Atualmente, em busca de novas oportunidades como Desenvolvedor/Programador, Ultimamente tenho estudo e me dedicado a tecnologia, principalmente atuando com as linguagens de programação C# e Java. <br>
+
+Minha carreira começou como estagiario em desenvolvimento de Software, e logo percebi que minha verdadeira paixão era a programação. Desde então, tenho me dedicado a aprender e aprimorar minhas habilidades como desenvolvedor de software. Sempre estou em busca de novos desafios e projetos que possam me ajudar a crescer profissionalmente e pessoalmente. <br>
+
+No meu tempo livre, gosto de contribuir com projetos de código aberto no Github e compartilhar conhecimento com a comunidade. Acredito que o compartilhamento de conhecimento é essencial para o avanço da tecnologia e para a formação de uma comunidade mais forte e colaborativa. <br>
+
+Se você estiver procurando por um desenvolvedor de software dedicado e apaixonado pelo que faz, sinta-se à vontade para entrar em contato comigo. Estou sempre aberto a novas oportunidades e desafios.
 
 <br>
 
